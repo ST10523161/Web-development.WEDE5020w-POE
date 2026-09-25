@@ -1,4 +1,4 @@
-# Web-development.WEDE5020-Part1
+# Web-development.WEDE5020-POE
 ST10523161 Ntsimane Motsoeneng
 Organization Overview
 ABC Carwash Services
@@ -95,5 +95,8 @@ Leal, A., 2023. A red car is covered in a lot of snow. Unsplash Photo Community.
 MDN Web Docs, 2026. HTML5 Semantic Elements. Available at: https://developer.mozilla.org/en-US/docs/Web/HTML 
 Moris, J.B., 2026. Car interior with pink soap suds on windshield. Unsplash Photo Community. Available at: https://unsplash.com/photos/car-interior-with-pink-soap-suds-on-windshield-F7wKYf5AjHw
 Saad, M., 2024. A person cleaning a car with a yellow cloth. Unsplash Photo Community. Available at: https://unsplash.com/photos/a-person-cleaning-a-car-with-a-yellow-cloth-_vmBjTG5L1g 
-
+Google Fonts, 2026. Google Fonts: Browse Fonts. [Online]. Available at: 
+https://fonts.google.com/
+Font Awesome, 2026. Font Awesome 6.4.0. [Online]. Available at: 
+https://fontawesome.com/ [Accessed 20 August 2026].
 
