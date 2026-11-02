@@ -55,3 +55,28 @@ add spacing to package grid, deals, card, and applied a featured package and bad
 Responsive design
 Breakpoints for tablet and mobile, navigation collapses into a hamburger menu.
 Grid layouts adapt to one-column mobile views.
+
+#Part 3 edit/addition
+
+Gallery lightbox
+added click to enlarge functionality on images on the services, index, gallery pages, to open a full screen overlay. Applied styling in CSS, and open or close functionality in main.js file. 
+
+Gallery filter 
+added data-category on each card in the gallery page, applied styling for the filter buttons, and filter logic in main.js file.
+
+Form validation(main.js)
+added validation for contact, booking, quote forms in their respective pages, with common fields like name, phone number.
+
+Implemented mobile navigation, to toggle the hamburger menu and automatically closes it when a navigation link is clicked, smooth scrolling for anchor links, show and remove function in the main.js file.
+
+Accordion
+Added accordion on the quote page under "Why Request a Quote?" with details and summary tags
+
+Interactive Map
+added google maps iframe tags in the contact, showing the organization's physical location
+
+SEO
+used unique title tags for every page and meta descriptions, meta keywords, header tags.
+Changed image alt text and file names to be description and optimized the images size.
+
+Created robots.txt file and sitemap.xml file to the project.
